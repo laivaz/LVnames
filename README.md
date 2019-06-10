@@ -1,7 +1,7 @@
 # LVnames
 Latvian first names
 
-\#wc -l boys.txt
+\#wc -l boys.txt<br>
 2030 boys.txt
 
 \#wc -l girls.txt
