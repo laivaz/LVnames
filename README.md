@@ -14,9 +14,9 @@ Latvian first names
 260 extra.txt
 
 # LV dict
-\# wc -l lv_dict.txt
+\# wc -l lv_dict.txt<br>
 66493 lv_dict.txt
 
 # LV dict nouns
-\# wc -l lv_dict_lietv.txt
+\# wc -l lv_dict_lietv.txt<br>
 41989 lv_dict_lietv.txt
