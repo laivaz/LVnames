@@ -20,3 +20,8 @@ Latvian first names
 # LV dict nouns
 \# wc -l lv_dict_lietv.txt<br>
 41989 lv_dict_lietv.txt
+
+# Leaked passwords
+lv_leaked_all.txt		LV leaked passwords
+lv_leaked_notwellknown.txt	LV leaked passwords not common in top 1M password list
+
