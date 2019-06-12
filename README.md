@@ -23,7 +23,6 @@ Latvian first names
 
 # Leaked passwords
 lv_leaked_all.txt		LV leaked passwords<br>
-409294 lv_leaked_all.txt<br>
 <br>
 lv_leaked_notwellknown.txt	LV leaked passwords not common in top 1M password list<br>
-375371 lv_leaked_notwellknown.txt
+
